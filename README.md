@@ -1,4 +1,4 @@
-# sratch_hazi
+# scratch_hazi
 
 Az általam elkészített játékban egy fáról lehulló almákat kell elkapni egy tál segítségével.
 A játékos feladata, hogy 25 almát összeszedjen. Ha ezt eléri, nyert.
